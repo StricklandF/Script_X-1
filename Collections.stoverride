@@ -1614,7 +1614,7 @@ script-providers:
     url: https://raw.githubusercontent.com/chxm1023/Rewrite/main/yiyan.js
     interval: 86400
   彩云天气:
-    url: https://raw.githubusercontent.com/chxm1023/Rewrite/main/caiyun.js
+    url: https://raw.githubusercontent.com/chxm1023/Rewrite/main/caiyuntianqi.js
     interval: 86400
   PS 图片编辑:
     url: https://raw.githubusercontent.com/chxm1023/Rewrite/main/Ps.js
